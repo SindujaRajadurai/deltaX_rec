@@ -9,10 +9,10 @@ This project deals with the Movie Application which allows the user to view, Add
 <about the table>. - Consits of the movie data that user enters
 #### Columns:
 
-|       Name         |Type                           |Primary key|
-|--------------- -  -|-------------------------------|-----------------------------|                                                                                                   
-|<id>                |(int)                          |(yes)                        |                                                            
-|<MovieName>         |(varchar)                      |(no)                         |                                                            
+|       Name         |Type                           |Primary key                  |
+|--------------- -  -|-------------------------------|-----------------------------|
+|<id>                |(int)                          |(yes)                        |     
+|<MovieName>         |(varchar)                      |(no)                         |
 |<Release date>      |(datetime)                     |(no)                         |
 |<Producer>          |(varchar)                      |(no)                         |
 |<Actor>             |(varchar)                      |(no)                         |
