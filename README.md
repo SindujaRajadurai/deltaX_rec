@@ -10,9 +10,9 @@ This project deals with the Movie Application which allows the user to view, Add
 #### Columns:
 
 |       Name         |Type                           |Primary key|
-|--------------- -  -|-------------------------------|-----------------------------|
-|<id>                |(int)                          |(yes)                        |
-|<MovieName>         |(varchar)                      |(no)                         |
+|--------------- -  -|-------------------------------|-----------------------------|                                                                                                   
+|<id>                |(int)                          |(yes)                        |                                                            
+|<MovieName>         |(varchar)                      |(no)                         |                                                            
 |<Release date>      |(datetime)                     |(no)                         |
 |<Producer>          |(varchar)                      |(no)                         |
 |<Actor>             |(varchar)                      |(no)                         |
