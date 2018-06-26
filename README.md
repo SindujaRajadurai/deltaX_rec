@@ -11,7 +11,7 @@ Consits of the movie data that user enters
 #### Columns:
 
 |       Name         |Type                           |Primary key                  |
-|--------------- -  -|-------------------------------|-----------------------------|
+|-----------------|-------------------------------|-----------------------------|
 |id                |int                       |yes                        |     
 |MovieName         |varchar                      |no                         |
 |Release date      |datetime                     |no                         |
