@@ -5,6 +5,7 @@ This project deals with the Movie Application which allows the user to view, Add
  
 
 ## DATABASE
+Database consist of only one table *MOVIE*
 ### Movie
 Consits of the movie data that user enters
 
